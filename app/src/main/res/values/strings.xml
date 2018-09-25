@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Task3CollectionAndMap</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buttonCalculateName">Calculate</string>
+    <string name="collections">Collections</string>
+    <string name="maps">Maps</string>
+    <string name="edit_count_elements">Enter count elements</string>
+    <string name="arrayList">Array</string>
+    <string name="linkedList">Linked</string>
+    <string name="copyOnWriteList">Copy</string>
+    <string name="text_view_progress_start_text">[1 – 1 000 000]</string>
+    <string name="hashMap">Hash</string>
+    <string name="treeMap">Tree</string>
+
+
+    <string-array name="name_collections">
+        <item>ArrayList</item>
+        <item>LinkedList</item>
+        <item>CopyOnWriteList</item>
+    </string-array>
+
+    <string-array name="name_collection_operation">
+        <item>add in begin</item>
+        <item>add in middle</item>
+        <item>add in end</item>
+        <item>search by value</item>
+        <item>remove in begin</item>
+        <item>remove in middle</item>
+        <item>remove in end</item>
+    </string-array>
+
+    <string-array name="name_maps">
+        <item>HashMap</item>
+        <item>TreeMap</item>
+    </string-array>
+
+    <string-array name="name_map_operation">
+        <item>add</item>
+        <item>search by value</item>
+        <item>remove</item>
+    </string-array>
+</resources>
