@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-<testsuite name="test.support.appodeal.com.task3collectionandmap.test" tests="2" failures="0" errors="0" skipped="0" time="16.0" timestamp="2018-09-12T19:42:35" hostname="localhost">
-  <properties />
-  <testcase name="useAppContext" classname="test.support.appodeal.com.task3collectionandmap.ExampleInstrumentedTest" time="0.001" />
-  <testcase name="onClick" classname="test.support.appodeal.com.task3collectionandmap.mvp.view.MainActivityTest" time="15.639" />
-</testsuite>
